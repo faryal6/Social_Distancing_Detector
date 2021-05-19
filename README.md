@@ -4,7 +4,7 @@
 
 A social distancing detector built with OpenCV using YOLO(COCO model) object detector
 
-<h2> About<span style='font-size:100px;'>&#127775;</span></h2>	
+<h2> About<span style='font-size:100px;'></span></h2>	
 <p>
 Social distancing is a method used to control the spread of contagious diseases. It implies that people physically distance themselves from one another, reducing close contact, and thereby reducing the spread of a contagious disease (such as the COVID-19 Disease).
 </p>
@@ -20,8 +20,8 @@ Social distancing is a method used to control the spread of contagious diseases.
 1. Clone the repo
 
 ```bash
-   $ git clone https://github.com/aibenStunner/social-distancing-detector.git
-   $ cd social-distancing-detector
+   $ git clone https://github.com/faryal6/Social_Distancing_Detector.git
+   $ cd Social_Distancing_Detector
 ```
 
 2. Install dependencies
